@@ -1,5 +1,12 @@
 # marketing-campaigns-analysis
 
+## Dashboard Preview
+
+![Marketing Campaigns - Overview](Marketing_campaigns_screen1.png)
+
+![Marketing Campaigns - Payback & Cohorts](Marketing_campaigns_screen2.png)
+
+
 ## Campaign Comparison Matrix
 
 | Metric | Campaign 1 (YouTube) | Campaign 2 (Targeted Ads) | Comment |
