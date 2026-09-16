@@ -6,6 +6,7 @@
 
 ![Marketing Campaigns - Payback & Cohorts](Marketing_campaigns_screen2.png)
 
+🔗 **[View Interactive Dashboard in Redash](https://redash.public.karpov.courses/dashboards/10971-marketing_campaigns)
 
 ## Campaign Comparison Matrix
 
