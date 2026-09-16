@@ -1,5 +1,5 @@
 -- ============================================================
--- Block 2: Order Behavior & Cohort Retention (AOV & Retention)
+-- Block 2: Monetization & Retention 
 -- Description: Calculates Average Order Value (AOV) and 
 -- Day 0, Day 1, and Day 7 Retention for both campaigns.
 -- ============================================================
