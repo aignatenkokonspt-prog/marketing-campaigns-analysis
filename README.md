@@ -27,6 +27,8 @@
 * **CAC vs Quality:** Campaign 2 had a lower initial CAC (1,068 RUB vs 1,462 RUB), but brought lower-quality traffic.
 * **ROI Performance:** Campaign 1 achieved a positive ROI of **+14.50%**, while Campaign 2 remained unprofitable at **-1.61%**.
 
+* **[Acquisition & Unit Economics](./sql/01_acquisition_unit_economics.sql)** — CAC, ROI, and core performance metrics for both campaigns.
+
 ### 2. Monetization & User Quality (AOV & Retention)
 * **Average Order Value:** AOV is nearly identical across both campaigns (~375 RUB).
 * **Retention Driver:** Campaign 1 retention on Day 7 is **22%** compared to only **9%** in Campaign 2. Higher order frequency drove the profit, not higher prices.
