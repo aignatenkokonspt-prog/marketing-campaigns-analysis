@@ -33,9 +33,13 @@
 * **Average Order Value:** AOV is nearly identical across both campaigns (~375 RUB).
 * **Retention Driver:** Campaign 1 retention on Day 7 is **22%** compared to only **9%** in Campaign 2. Higher order frequency drove the profit, not higher prices.
 
+**[AOV & Retention Analysis](./sql/02_aov_retention_analysis.sql)** — Average Order Value (AOV) and Day 0, Day 1, Day 7 Cohort Retention rates.
+
 ### 3. Payback Period (Cumulative ARPPU vs CAC)
 * **Break-even Point:** Cumulative ARPPU for Campaign 1 crossed the CAC line on **Day 5**.
 * **Unprofitable Cohort:** Campaign 2 failed to cover its CAC within the 7-day tracking window.
+
+**[Cumulative ARPU & CAC Dynamics](./sql/03_cumulative_metrics.sql)** — Daily revenue, cumulative revenue, and cumulative ARPU comparison.
 
 ---
 
