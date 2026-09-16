@@ -2,12 +2,12 @@
 
 ## Campaign Comparison Matrix
 
-| Metric | Campaign 1 (YouTube) | Campaign 2 (Targeted Ads) | Winner / Insight |
+| Metric | Campaign 1 (YouTube) | Campaign 2 (Targeted Ads) | Comment |
 | :--- | :---: | :---: | :--- |
-| **Signups** | 171 | **236** | Campaign 2 brought more initial volume |
+| **New users** | 171 | **236** | Campaign 2 brought more initial volume |
 | **CAC** | 1,462 RUB | **1,068 RUB** | Campaign 2 was cheaper to acquire |
 | **ROI** | **+14.50%** | -1.61% | **Campaign 1** generated profit (1.145 RUB per 1 RUB spent) |
-| **AOV** | 371.73 RUB | 380.88 RUB | Equal average order value (~380 RUB) |
+| **AOV** | 371.73 RUB | 380.88 RUB | Equal average order value (~375 RUB) |
 | **Day 7 Retention** | **22%** | 9% | **Campaign 1** brought higher quality, loyal users |
 | **Payback Period** | **Day 5** | Not achieved (7+ days) | **Campaign 1** broke even within the first week |
 
@@ -20,7 +20,7 @@
 * **ROI Performance:** Campaign 1 achieved a positive ROI of **+14.50%**, while Campaign 2 remained unprofitable at **-1.61%**.
 
 ### 2. Monetization & User Quality (AOV & Retention)
-* **Average Order Value:** AOV is nearly identical across both campaigns (~370–380 RUB).
+* **Average Order Value:** AOV is nearly identical across both campaigns (~375 RUB).
 * **Retention Driver:** Campaign 1 retention on Day 7 is **22%** compared to only **9%** in Campaign 2. Higher order frequency drove the profit, not higher prices.
 
 ### 3. Payback Period (Cumulative ARPPU vs CAC)
