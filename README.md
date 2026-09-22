@@ -8,6 +8,11 @@
 
 🔗 **[View Interactive Dashboard in Redash](https://redash.public.karpov.courses/dashboards/10971-marketing_campaigns)
 
+## Tech Stack & Analytics Methods
+
+* **Data Querying & BI Platform:** PostgreSQL & Redash — SQL (Window Functions, CTEs, Aggregations), interactive dashboard.
+* **Analytical Frameworks:** Unit Economics (CAC, ROI, Payback Period), Cohort Analysis (Retention Rate), Monetization Metrics (AOV, Cumulative ARPPU).
+
 ## Campaign Comparison Matrix
 
 | Metric | Campaign 1 (YouTube) | Campaign 2 (Targeted Ads) | Comment |
