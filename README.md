@@ -31,9 +31,8 @@ An end-to-end analytical evaluation of marketing campaign effectiveness, assessi
 | **Day 7 Retention** | **22%** | 9% | **Campaign 1** brought higher quality, loyal users |
 | **Payback Period** | **Day 5** | Not achieved (7+ days) | **Campaign 1** broke even within the first week |
 
----
 
-### Key Takeaways by Dashboard Widgets
+## Key Takeaways by Dashboard Widgets
 
 ### 1. Acquisition & Unit Economics (CAC & ROI)
 * **CAC vs Quality:** Campaign 2 had a lower initial CAC (1,068 RUB vs 1,462 RUB), but brought lower-quality traffic
