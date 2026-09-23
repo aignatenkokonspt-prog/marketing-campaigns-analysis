@@ -1,4 +1,17 @@
-# marketing-campaigns-analysis
+# Marketing Campaign Performance
+
+An end-to-end analytical evaluation of marketing campaign effectiveness, assessing acquisition volume, User CAC, ROI, and Cohort Retention across distinct ad channels using PostgreSQL and Redash.
+
+**Live Dashboard Link:**[View Interactive Dashboard in Redash](https://redash.public.karpov.courses/dashboards/10971-marketing_campaigns)
+
+---
+
+## Tech Stack
+* **Database:** `PostgreSQL`
+* **BI & Visualization:** `Redash`
+* **SQL Techniques:** `Window Functions`, `CTEs`, `Aggregations`
+* **Analytical Frameworks:** Unit Economics (`CAC`, `ROI`, `Payback Period`), Cohort Analysis (`Retention Rate`), Monetization Metrics (`AOV`, `Cumulative ARPPU`).
+---
 
 ## Dashboard Preview
 
@@ -6,12 +19,6 @@
 
 ![Marketing Campaigns - Payback & Cohorts](Marketing_campaigns_screen2.png)
 
-🔗 **[View Interactive Dashboard in Redash](https://redash.public.karpov.courses/dashboards/10971-marketing_campaigns)
-
-## Tech Stack & Analytics Methods
-
-* **Data Querying & BI Platform:** PostgreSQL & Redash — SQL (Window Functions, CTEs, Aggregations), interactive dashboard.
-* **Analytical Frameworks:** Unit Economics (CAC, ROI, Payback Period), Cohort Analysis (Retention Rate), Monetization Metrics (AOV, Cumulative ARPPU).
 
 ## Campaign Comparison Matrix
 
