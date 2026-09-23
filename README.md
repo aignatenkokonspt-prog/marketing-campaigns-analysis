@@ -1,4 +1,4 @@
-# Marketing Campaign Performance
+# Marketing Campaign Performance Dashboard (Redash)
 
 An end-to-end analytical evaluation of marketing campaign effectiveness, assessing acquisition volume, User CAC, ROI, and Cohort Retention across distinct ad channels using PostgreSQL and Redash.
 
