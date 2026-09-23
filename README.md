@@ -17,10 +17,10 @@
 
 | Metric | Campaign 1 (YouTube) | Campaign 2 (Targeted Ads) | Comment |
 | :--- | :---: | :---: | :--- |
-| **New users** | 171 | **236** | Campaign 2 brought more initial volume |
+| **New users** | 171 | **236** | Campaign 2 acquired more users than Campaign 1 |
 | **CAC** | 1,462 RUB | **1,068 RUB** | Campaign 2 was cheaper to acquire |
 | **ROI** | **+14.50%** | -1.61% | **Campaign 1** generated profit (1.145 RUB per 1 RUB spent) |
-| **AOV** | 372 RUB | 381 RUB | Equal average order value (~375 RUB) |
+| **AOV** | 372 RUB | 381 RUB | Almost equal average order value (~375 RUB) |
 | **Day 7 Retention** | **22%** | 9% | **Campaign 1** brought higher quality, loyal users |
 | **Payback Period** | **Day 5** | Not achieved (7+ days) | **Campaign 1** broke even within the first week |
 
@@ -51,6 +51,6 @@
 
 ## Executive Summary & Recommendation
 
-* **Final Verdict:** Despite higher initial signups in Campaign 2, **Campaign 1 was significantly more successful** due to strong retention and fast payback.
+* **Final Verdict:** Despite higher initial acquisition in Campaign 2, **Campaign 1 was significantly more successful** due to strong retention and fast payback.
 * **Business Recommendation:** It is recommended to reallocate budget from Campaign 2 (Targeted Ads) toward scaling Campaign 1 (YouTube Influencers) due to superior ROI and retention.
 
